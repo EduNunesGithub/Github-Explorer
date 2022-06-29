@@ -1,6 +1,6 @@
 ## Github Explorer
 
-Página feita durante aula do [Ignite - Rocketseat](https://www.rocketseat.com.br/ignite)
+Página feita durante aula do [Ignite - Rocketseat](https://www.rocketseat.com.br/ignite) que mostra todos os repositórios do GitHub da Rocketseat
 
 ### Screenshot
 
