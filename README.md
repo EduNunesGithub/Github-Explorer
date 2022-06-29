@@ -6,6 +6,10 @@ Página feita durante aula do [Ignite - Rocketseat](https://www.rocketseat.com.b
 
 ![cover](https://user-images.githubusercontent.com/107494885/176335563-cacde032-5ebf-4369-a22d-df3c261e17bf.png)
 
+### Link da Aplicação
+
+https://edununesgithub.github.io/Github-Explorer/
+
 ### Tecnologias Usadas
 
 - Node.js
